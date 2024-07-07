@@ -1,0 +1,5 @@
+name = "Selim"
+email = "selimerdinc@selimerdinc.com"
+currentAddress = "test1"
+permananetAddress = "test2"
+api = "https://reqres.in/api"
